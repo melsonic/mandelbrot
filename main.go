@@ -2,7 +2,6 @@ package main
 
 import rl "github.com/gen2brain/raylib-go/raylib"
 import "image/color"
-import "fmt"
 
 const (
 	HW = 800
